@@ -58,7 +58,7 @@
     "big-integer": "^1.6.51",
     "binary-extensions": "^2.2.0",
     "bplist-parser": "^0.2.0",
-    "brace-expansion": "^1.1.11",
+    "brace-expansion": "^1.1.13",
     "braces": "^3.0.3",
     "browserslist": "^4.21.5",
     "bundle-name": "^3.0.0",
@@ -367,7 +367,7 @@
     "uuid": "^8.3.2",
     "victory-vendor": "^36.6.10",
     "yallist": "^4.0.0",
-    "yaml": "^2.2.2",
+    "yaml": "^2.8.3",
     "yocto-queue": "^0.1.0",
     "zod": "^3.22.3"
   },
